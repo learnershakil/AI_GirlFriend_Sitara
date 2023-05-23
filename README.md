@@ -1,7 +1,7 @@
 # Sitara - Intelligent AI Chatbot
 
 <p align="center">
-  <img src="https://i.ibb.co/dBHv0S9/images-1.jpg" alt="Sitara Logo">
+  <img src="https://i.ibb.co/dBHv0S9/images-1.jpg" alt="Sitara Logo" style="width: 300px;">
 </p>
 
 Sitara is a sophisticated AI chatbot developed in Python, showcasing the latest advancements in natural language processing and artificial intelligence. Powered by OpenAI's cutting-edge GPT-3.5 language model, Sitara offers intelligent and engaging conversations, providing a seamless and immersive chatbot experience. With advanced sentiment analysis and an elegant graphical user interface (GUI) built using the tkinter library, Sitara ensures contextually relevant and emotionally responsive interactions.
