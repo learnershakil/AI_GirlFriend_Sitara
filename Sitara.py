@@ -79,7 +79,7 @@ class ChatGUI:
 
 if __name__ == "__main__":
     # Set your OpenAI API key
-    api_key = "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"
+    api_key = "api_key"
 
     # Create an instance of Sitara and start the conversation
     sitara = Sitara("Sitara", api_key)
